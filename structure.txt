@@ -1,0 +1,18 @@
+project_root/
+├── admin/
+│   ├── index.html
+│   ├── about.html
+│   └── services.html
+│   └── testimonials.html
+│   └── contact.html
+│  
+├── assets/
+│   ├──- css/
+│   └──- fonts/
+│   └──- img/
+└── config/
+-------------------------------
+DATABASE IMPLEMETATION WITH SQLITE
+FRAMEWORK USES FOR DEVELOPMENT: django
+-------------------------------------------------------------
+SQL TABLE 
